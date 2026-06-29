@@ -1,3 +1,0 @@
-name = "karate-smpn1jayanti"
-compatibility_date = "2024-01-01" # Gunakan tanggal hari ini
-assets = { directory = "public" } # Ganti 'public' dengan folder output build Anda   
